@@ -1,3 +1,3 @@
-module lesson/main
+module lesson
 
-go 1.17go
+go 1.17

@@ -7,3 +7,4 @@ func Average(s []int) int {
 	}
 	return int(total / len(s))
 }
+
